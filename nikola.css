@@ -1,0 +1,13 @@
+ body{background-color: blue;}
+ h1{color: yellow;font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+ p{background-color: gray;color: yellow;font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-align: center;}
+#p1{background-color: gray;color: yellow;font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    ;border: solid; border-width: 5px; border-radius: 10px; border-color: black;text-align: center;}
+    #p2{color: brown; text-align: center;}
+dt{color: yellow; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+dd{color:black; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+table{background-color: black;font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+ul{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+#h1w{background-color: gray;color: red;font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;}
